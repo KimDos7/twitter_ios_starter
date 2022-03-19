@@ -22,4 +22,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/qflJxQ2rDcWweAEscl/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/fx4TYSfhjX4Jn6rhjo/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
